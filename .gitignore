@@ -1,0 +1,4 @@
+*.o
+simple
+*.pyc
+build
