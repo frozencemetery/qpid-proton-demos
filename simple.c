@@ -1,7 +1,3 @@
-/* This script is for testing purposes only.  It does not check
- * failures and does not clean up after itself.  Use only to verify
- * correctness of installation. */
-
 #include <stdio.h>
 #include <string.h>
 
