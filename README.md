@@ -13,7 +13,7 @@ with SASL.  An invocation of them might look like:
 
 ```shell
 $ ./simple.py amqp://qpid/amq.topic 'Hello, world!'
-Hello, world!
+Got: "Hello, world!"
 $ 
 ```
 

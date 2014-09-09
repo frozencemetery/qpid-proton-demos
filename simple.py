@@ -26,7 +26,7 @@ def main(argv):
   m.recv() # block
   m.get(recvmsg)
 
-  print recvmsg.subject
+  print "Got: \"%s\"" % recvmsg.subject
 
   m.accept()
 
